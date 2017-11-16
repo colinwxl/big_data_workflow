@@ -1,6 +1,6 @@
 # [Nextflow](https://www.nextflow.io/) [Data-driven computational pipelines]
 ***
-<2017.1110> by Colin Wu colinabc
+<2017.1110> by Colin Wu colinabc@qq.com
 ## Get started
 ### Requirements
 Nextflow can be used on any POSIX compatible system (Linux, Solaris, OS X, etc). It requires BASH and Java 8 or higher to be installed.
